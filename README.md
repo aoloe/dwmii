@@ -24,3 +24,10 @@ Basically, I still want back my wmi and I also miss the possibility to have tabb
 
 Some links:
 - [dev] wmii as a prepatched dwm: http://lists.suckless.org/dev/1106/8789.html
+
+Existing patches:
+- pushup and pushdown provide a way to move clients inside the clients list
+  - push: http://dwm.suckless.org/patches/push
+  - movestack: http://dwm.suckless.org/patches/movestack
+- This patch allows you to change the names of dwm’s tags while it’s running.
+  - http://dwm.suckless.org/patches/nametag
