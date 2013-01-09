@@ -1,7 +1,7 @@
 dwmii
 =====
 
-I've been using wmii for several years now. Not because it the best tiling window manager but because its window management fits my needs.
+I've been using wmii for several years now. Not because it's the best tiling window manager but because its window management fits my needs.
 
 Ever since dwm has been created I've been tempted to switch over. I like most of the philosophy beihind it, but I would have need to apply several patches to get it to work in a way that is sane for my workflow.
 
@@ -19,3 +19,5 @@ Here are the behaviors from wmii that I miss in dwm:
 And here are the parts of wmii (or other WMs) that i don't want to have in dwmii:
 - the contextual menu to kill/close the windows (win-shift-c and xkill are more than enough!)
 - no filesystem interface (no 9P)
+
+Basically, I still want back my wmi and I also miss the possibility to have tabbed windows.
