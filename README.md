@@ -8,7 +8,12 @@ Ever since dwm has been created I've been tempted to switch over. I like most of
 I'm too lazy -- or it's not enough of a priority? -- to apply and fiddle around with the patches each time dwm changes. But if there are a few people that care enough, I would participate in mantaining a dwmii which uses the dwm codebase with the patches that restore the sane part of wmii.
 
 Here are the behaviors from wmii that I miss in dwm:
-- Columns width golden ratio width (I have a wide screen!)
+- the standard wmii layout:
+  - Columns width golden ratio width (I have a wide screen!)
+  - the win-shift-[hjkl] to move windows where we want
+  - each column can have its own layout (maximized, stacked, default)
+- tags are dynamically created
+- tags can be named
 
 And here are the parts of wmii (or other WMs) that i don't want to have in dwmii:
 - the contextual menu to kill/close the windows (win-shift-c and xkill are more than enough!)
