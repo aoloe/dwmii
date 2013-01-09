@@ -21,3 +21,6 @@ And here are the parts of wmii (or other WMs) that i don't want to have in dwmii
 - no filesystem interface (no 9P)
 
 Basically, I still want back my wmi and I also miss the possibility to have tabbed windows.
+
+Some links:
+- [dev] wmii as a prepatched dwm: http://lists.suckless.org/dev/1106/8789.html
