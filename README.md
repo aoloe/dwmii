@@ -22,10 +22,10 @@ And here are the parts of wmii (or other WMs) that i don't want to have in dwmii
 
 Basically, I still want back my wmi and I also miss the possibility to have tabbed windows.
 
-Some links:
+## Some links
 - [dev] wmii as a prepatched dwm: http://lists.suckless.org/dev/1106/8789.html
 
-Existing patches:
+##Existing patches
 - pushup and pushdown provide a way to move clients inside the clients list
   - push: http://dwm.suckless.org/patches/push
   - movestack: http://dwm.suckless.org/patches/movestack
