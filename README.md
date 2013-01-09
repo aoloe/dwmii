@@ -31,3 +31,9 @@ Existing patches:
   - movestack: http://dwm.suckless.org/patches/movestack
 - This patch allows you to change the names of dwm’s tags while it’s running.
   - http://dwm.suckless.org/patches/nametag
+- attachabove makes new clients attach above the selected client (instead of always becoming the new master) - basically how Xmonad does it
+  - http://dwm.suckless.org/patches/attachabove
+- This patch keeps layout, mwfact, barpos and nmaster per tag.
+  - http://dwm.suckless.org/patches/pertag
+- This patch restores the ability to have multiple clients in the master area of the tiled layout. This feature was dropped from vanilla dwm in version 4.4.
+  - http://dwm.suckless.org/patches/historical/nmaster
